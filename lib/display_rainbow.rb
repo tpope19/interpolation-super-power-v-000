@@ -8,5 +8,4 @@ def display_rainbow(colors)
   puts "#{4}"
   puts "#{5}"
   puts "#{6}"
-  puts "#{7}"
 end
